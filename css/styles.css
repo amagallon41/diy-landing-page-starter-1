@@ -8,3 +8,7 @@ body {
     justify-content: center;
     height: 100vh;
  }
+
+ img{
+    scale: 25%;
+ }
