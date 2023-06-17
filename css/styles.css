@@ -41,9 +41,3 @@ body {
    font-family: 'Satoshi-Regular';
    color: whitesmoke;
  }
-
- button {
-   display: inline-block;
-   width: 100px;
-   height: 50px;
- }
