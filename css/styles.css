@@ -7,8 +7,43 @@ body {
     align-content: center;
     justify-content: center;
     height: 100vh;
+    background: url(https://wallpapercave.com/wp/2j4Ah48.jpg) no-repeat;
+    background-size: cover;
+ }
+
+ main {
+   background: blue;
+   width: 600px;
+   height: 800px;
+   position: relative;
  }
 
  img{
-    scale: 25%;
+    width: 600px;
+    height: 800px;
+    align-content: center;
+ }
+
+ h1 {
+    font-size: 5em;
+    font-family: 'Satoshi-Regular';
+    color: whitesmoke;
+ }
+
+ p {
+   font-size: 3em;
+   font-family: 'Satoshi-Regular';
+   color: whitesmoke;
+ }
+
+ nav{
+   font-size: 2em;
+   font-family: 'Satoshi-Regular';
+   color: whitesmoke;
+ }
+
+ button {
+   display: inline-block;
+   width: 100px;
+   height: 50px;
  }
